@@ -42,7 +42,7 @@ public class Animal {
          nombre = nuevoNombre;
     }
     
-    //Método para obtener el nombre del animal
+    //Método para obtener el nombre del animals
     public void countAnimals(String animal)
     {
         switch(animal) {

@@ -36,7 +36,7 @@ public class Animal {
     {
         return nombre;
     }
-        //Método para obtener el nombre del animal
+    //Método para obtener el nombre del animal
     public void setNombre(String nuevoNombre)
     {
          nombre = nuevoNombre;

@@ -36,7 +36,7 @@ public class NewMain {
             
             miAnimal.countAnimals(miAnimal.getNombre());
         }
-        
+       System.exit( 0 ); 
     }
     
 }
